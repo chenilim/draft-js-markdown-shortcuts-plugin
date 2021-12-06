@@ -18,6 +18,9 @@
     "test:watch": "npm test | npm run watch",
     "watch": "npm-watch"
   },
+  "files": [
+	  "lib/**/*"
+  ],
   "watch": {
     "test": {
       "patterns": [
