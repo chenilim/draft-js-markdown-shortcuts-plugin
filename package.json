@@ -99,11 +99,6 @@
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.11.0"
   },
-  "peerDependencies": {
-    "draft-js-plugins-editor": "^3.0.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
-  },
   "contributors": [
     "Atsushi Nagase <a@ngs.io>"
   ],
